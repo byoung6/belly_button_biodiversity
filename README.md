@@ -1,1 +1,5 @@
-# belly_button_biodiversity
+### belly_button_biodiversity
+
+The purpose of this repository is to showcase JavaScript, Plotly, and D3.js by way of creating three visual aids depicting belly button biodiversity, and frequency of belly button washing through a provided sample.json. The goal is to have a bar chart, bubble chart, and gauge chart published via github. 
+
+https://byoung6.github.io/belly_button_biodiversity/
